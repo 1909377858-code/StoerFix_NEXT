@@ -1,0 +1,7 @@
+id=SoterFix
+name=Keystore自动修复烧录
+version=1.0
+versionCode=1
+author=IDlike
+description=自动烧录TEE（当无法获取设备认证时），自动修复Store Key（当开机时和烧录TEE后），自动检测Key状态 支持设备：一加13T
+supported=KernelSU
